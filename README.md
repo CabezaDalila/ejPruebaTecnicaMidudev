@@ -9,12 +9,13 @@ In the project directory, you can run:
 ### `npm start`
 
 Dadas dos APIs:
-·https://catfact.ninja/fact - Cat Random Facts
-·https://developers.giphy.con/docs/ - Giphy API
-Selecciona un dato sobre gatos usando la primera API.
-De ese dto, usa las tres priemras palabras y busca un gif usando la API de Giphy.
+###https://catfact.ninja/fact - Cat Random Facts
+###https://developers.giphy.con/docs/ - Giphy API
 
-El resultado se tiene que mostrar con una imagen a la izquierda y el texto a la derecha, todo centrado verticalmente.
+###Selecciona un dato sobre gatos usando la primera API.
+###De ese dato, usa las tres priemras palabras y busca un gif usando la API de Giphy.
+
+###El resultado se tiene que mostrar con una imagen a la izquierda y el texto a la derecha, todo centrado verticalmente.
 
 
 
