@@ -22,10 +22,11 @@ export default function SearchCats() {
         <div id="container">
            
             <div id="content">
-                <p id="dataCat">{dataCat.fact ? dataCat.fact : 'Loading...'}</p>
+                
                 <div id="gif">
                     {dataCat.fact && <GetGif fact={fact} />}
                 </div>
+                <p id="dataCat">{dataCat.fact ? dataCat.fact : 'Loading...'}</p>
             </div>
             
         </div>
