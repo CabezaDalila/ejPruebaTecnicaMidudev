@@ -8,16 +8,25 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Dadas dos APIs:
-###https://catfact.ninja/fact - Cat Random Facts
-###https://developers.giphy.con/docs/ - Giphy API
+## Project Overview
 
-###Selecciona un dato sobre gatos usando la primera API.
-###De ese dato, usa las tres priemras palabras y busca un gif usando la API de Giphy.
+This project demonstrates the integration of two APIs to display dynamic content. The objective is to combine random cat facts with relevant GIFs in a visually appealing layout.
 
-###El resultado se tiene que mostrar con una imagen a la izquierda y el texto a la derecha, todo centrado verticalmente.
+### APIs Used
 
+1. **[Cat Random Facts](https://catfact.ninja/fact)**: Provides random facts about cats.
+2. **[Giphy API](https://developers.giphy.com/docs/)**: Retrieves GIFs based on search terms.
 
+### Functionality
 
+1. Fetch a random cat fact from the Cat Random Facts API.
+2. Extract the first three words of the fact.
+3. Use these three words as a search query to retrieve a GIF from the Giphy API.
+4. Display the result as follows:
+   - **GIF** on the left.
+   - **Cat fact text** on the right.
+   - Both elements are centered vertically.
+
+### ![Uploading image.png…]()
 
 
