@@ -27,6 +27,6 @@ This project demonstrates the integration of two APIs to display dynamic content
    - **Cat fact text** on the right.
    - Both elements are centered vertically.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3db70dd2-f4e0-4bc2-9f99-14686a74e116)
 
 
